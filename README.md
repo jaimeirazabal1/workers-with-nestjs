@@ -14,7 +14,7 @@ Este laboratorio demuestra el uso de workers (tareas en segundo plano) utilizand
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/jaimeirazabal1/workers-with-nestjs.git
-   cd workers
+   cd workers-with-nestjs
    ```
 
 2. Instala las dependencias:
